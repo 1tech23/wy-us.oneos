@@ -1,7 +1,21 @@
-Version Alpha 1
+OS: Dean (OneOS Debian)
 
-Debian-based OneOS
+Arch: x86_64
 
-For older devices
+Version: Testing (Alpha 1)
 
-Uses ubiquity.
+Installer: Ubiquity
+
+Target: Older 64-bit devices
+
+Minimum specifications:
+  
+  RAM: 512 MB
+  SSD: 2GB
+  Processor: Celeron 1GHZ
+
+Recommended specifications:
+  
+  RAM: 4+GB
+  SSD: 500+GB
+  Processor: AMD64 or Intel 2.4+GHZ
