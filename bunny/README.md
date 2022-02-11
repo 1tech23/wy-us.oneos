@@ -1,5 +1,7 @@
-Version Alpha 1
+OS: Dean (OneOS Debian)
 
-Ubuntu-based OneArch (for looks)
+Arch: x86_64
 
-Uses ubiquity to install.
+Version: Testing (Alpha 1)
+
+Installer: Ubiquity
