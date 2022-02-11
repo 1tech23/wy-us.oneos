@@ -1,1 +1,1 @@
-For OneOS Debian using x86_64 architecture only.
+For DeanOS (OneOS Debian) x86_64 (64-bit) architecture only.
