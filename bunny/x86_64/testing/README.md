@@ -1,7 +1,5 @@
-x86_64 Bunny OS (One Ubuntu)
+OS: BunnyOS (OneOS Debian)
 
-Testing
+Arch: x86_64
 
-Version Alpha 1
-
-Repositories and Files (dependencies and such)
+Version: Testing (Alpha 1)
