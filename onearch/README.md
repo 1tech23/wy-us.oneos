@@ -1,7 +1,21 @@
-OneArch Version Alpha 1
+OS: OneArch (OneOS)
 
-Arch-based OneOS
+Arch: x86_64
 
-File storage repository
+Version: Testing (Alpha 1)
 
-Will use virtual installer to install (ubiquity)
+Installer: Ubiquity (see setup instructions on https://oneenterprisestech.github.io/oneearch/x86_64/testing/INSTRUCT.md)
+
+Target: Any 64-bit device
+
+Minimum specifications:
+  
+  RAM: 512MB
+  SSD: 4GB
+  Processor/CPU: AMD64 1GHZ
+
+Recommended specifications:
+  
+  RAM: 2+GB
+  SSD: 20+GB
+  Processor/CPU: AMD64 2+GHZ
